@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+/*RESET*/
+body,p,div,h1,h2,h3,h4,h5,h6,ul,ol,dl,dt,dd,table,caption,form,fieldset,legend,input,a{margin:0; padding:0; text-decoration:none}
+body, input, textarea, select, button, table {color:#000;  font-family: 'Malgun Gothic','맑은 고딕',dotum,'돋움',sans-serif;}
+li{list-style-type:none;}
+fieldset,img{border:0;}
+em {font-style:normal;}
+li img, li a, dd img, img, a img{vertical-align:top;}
+legend,caption{font-size:0; width:0; height:0; line-height:0; visibility:hidden; position:absolute;}
+iframe {display:block;}
+body{min-height:100%; letter-spacing:-1px; overflow-x:hidden; font-size:15px; -webkit-text-size-adjust:none}
+table {border-spacing: 0}
+table th, table td {padding: 0}
+
+/*LAYOUT*/
+#wrap {position:relative; width:100%;}
+  #header {width:100%; background-color:#333; padding:30px;}
+    h1 {text-align:center; color:#fff; font-weight:bold;}
+  #contents {position:relative;}
+  #footer {text-align:center; font-size:11px; color:#888;}
