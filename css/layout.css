@@ -16,6 +16,6 @@ table th, table td {padding: 0}
 /*LAYOUT*/
 #wrap {position:relative; width:100%;}
   #header {position:relative; box-sizing:border-box; width:100%; background-color:#333; padding:30px;}
-    h1 {width:100%; text-align:center; color:#fff; font-size:20px; font-weight:normal;}
+    h1 {width:100%; text-align:center; color:#fff; font-size:25px; font-weight:normal;}
   #contents {position:relative; width:100%;}
   #footer {position:relative; width:100%; box-sizing:border-box; padding:30px; border-top:1px solid rgba(0,0,0,.2); text-align:center; letter-spacing:0; font-size:11px; color:#888;}
